@@ -1,5 +1,5 @@
 ## LoRaWan ##
 
-### ESP32 ###
-In **images** directory you can use the 2 image file for Wifi and LoRa
+### HELTEC ESP32 ###
+In **images** directory you can find 2 image file for Wifi and LoRa for the Oled display
 
